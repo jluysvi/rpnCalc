@@ -9,6 +9,7 @@ namespace rpnCalc
     /// </summary>
     public partial class App : Application
     {
+        public string AppName { get; set; } = "rpnCalc";
     }
 
 }

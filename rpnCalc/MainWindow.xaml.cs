@@ -18,5 +18,10 @@ namespace rpnCalc
             InitializeComponent();
             //Checing the git
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+           
+        }
     }
 }
